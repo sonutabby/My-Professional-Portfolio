@@ -2074,7 +2074,7 @@ footer {
 
 
 
-/* ================= CERTIFICATES ================= */
+/* ================= CERTIFICATES ================= 
 
 .certificates{
     background:#fff;
@@ -2138,13 +2138,13 @@ footer {
     box-shadow: 0 18px 35px rgba(0,0,0,.08);
 }
 
-/* Portrait */
+/* Portrait 
 
 .certificate.portrait{
     aspect-ratio:3/4;
 }
 
-/* Landscape */
+/* Landscape 
 
 .certificate.landscape{
     aspect-ratio:16/9;
@@ -2169,4 +2169,4 @@ footer {
         grid-template-columns:1fr;
     }
 
-}
+}*/
